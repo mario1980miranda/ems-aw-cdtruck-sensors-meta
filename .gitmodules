@@ -1,0 +1,9 @@
+[submodule "microservices/sensors-temperature-monitoring"]
+	path = microservices/sensors-temperature-monitoring
+	url = git@github.com:mario1980miranda/ems-aw-cdtruck-sensors-temperature-monitoring.git
+[submodule "microservices/sensors-device-management"]
+	path = microservices/sensors-device-management
+	url = git@github.com:mario1980miranda/ems-aw-cdtruck-sensors-device-management.git
+[submodule "microservices/sensors-temperature-processing"]
+	path = microservices/sensors-temperature-processing
+	url = git@github.com:mario1980miranda/ems-aw-cdtruck-sensors-temperature-processing.git
